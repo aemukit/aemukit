@@ -1,4 +1,4 @@
-## Empty, nothing to see man!
+## Empty, nothing to see here!
 
 <!--
 **aemukit/aemukit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
