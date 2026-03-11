@@ -1,13 +1,14 @@
 <div align="center">
-  
-
-<h2>Empty, nothing to see here!</h2>
-<p >
-
+<p>
   <img src="fire-of-isolation.gif" alt="fire-of-isolation" />
 </p>
-
+  <h2>Empty, nothing to see here!</h2>
+  
 </div>
+
+<details>
+  <summary>Click to expand</summary>
+</details>
 
 <!--
 **aemukit/aemukit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
