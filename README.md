@@ -2,25 +2,22 @@
 <p>
   <img src="fire-of-isolation.gif" alt="fire-of-isolation" />
 </p>
-  <h2>Empty, nothing to see here!</h2>
   
 </div>
 
 <details>
-  <summary>dont click this</summary>
+  <summary>  ## Example: JavaScript in README</summary>
+  
+  ## Example: JavaScript in README
+
+```javascript
+// A simple function
+function greet(name) {
+  console.log(`Hello, ${name}!`);
+}
+
+// Call the function
+greet("World");
+
+
 </details>
-
-<!--
-**aemukit/aemukit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
