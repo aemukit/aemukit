@@ -1,5 +1,8 @@
 ## Empty, nothing to see here!
-![fire-of-isolation](relative/path/to/your.gif)
+<p align="center">
+  <img src="fire-of-isolation.gif" alt="fire-of-isolation" />
+</p>
+
 
 <!--
 **aemukit/aemukit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
