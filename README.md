@@ -7,7 +7,7 @@
 </div>
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>dont click this</summary>
 </details>
 
 <!--
